@@ -1,0 +1,7 @@
+1. EJECUTAR QUERY PERMISSIONS.SQL
+2. VALIDAR CREACION DEL PERFIL JULIO
+3. CAMBIAR CONF DE SERVIDOR LOCAL A SQL SERVER AND WIND AUTH
+	Properties -> Security
+4. Cierro el programa SQL Management
+5. Windows R -> services.msc -> SQL Server (Reiniciar)
+6. Autenticarse con el usuario
